@@ -1,0 +1,10 @@
+# robots.txt
+robots.txt is a file used by websites to control search engine crawlers.
+- Located at /robots.txt of a website
+- Shows allowed and disallowed paths
+- Can reveal hidden directories
+
+Why it matters in security:
+- Useful for information gathering
+- Helps understand website structure
+- Often used in reconnaissance phase
