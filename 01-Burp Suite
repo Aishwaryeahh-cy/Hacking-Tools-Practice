@@ -1,0 +1,11 @@
+# Burp Suite
+Burp Suite is a web application security testing tool.
+- Works as an intercepting proxy between browser and server
+- Captures HTTP/HTTPS requests and responses
+- Allows modifying and resending requests
+- Used to find web vulnerabilities
+
+Why I practiced it:
+- To understand how web traffic works
+- To analyze requests and responses
+- To learn basic web security testing
