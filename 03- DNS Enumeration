@@ -1,0 +1,17 @@
+# DNS Enumeration
+DNS is used to translate domain names into IP addresses.
+It is an important part of reconnaissance.
+
+## Tools Practiced
+### dnsenum
+- Used to enumerate DNS information
+- Finds subdomains and name servers
+- Helps expand attack surface
+### dnsrecon
+- Advanced DNS reconnaissance tool
+- Performs zone transfers (if allowed)
+- Enumerates DNS records and subdomains
+
+Why DNS enumeration matters:
+- Reveals infrastructure details
+- Helps plan further attacks
