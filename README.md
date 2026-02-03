@@ -8,9 +8,4 @@ Focused on learning tools by using them, not just reading about them.
 - Real-time tool usage and learning
 - Building strong cybersecurity fundamentals
 
-## 🛠 Tools Practiced
-- Burp Suite (Web Security Testing)
-- robots.txt (Reconnaissance)
-- DNS Enumeration (dnsenum & dnsrecon)
 
-More tools will be added as I continue learning.
