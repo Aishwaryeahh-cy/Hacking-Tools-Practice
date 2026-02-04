@@ -1,0 +1,6 @@
+wafw00f
+Today I learned how to use wafw00f, which is used to check if a website is protected by a Web Application Firewall (WAF).
+It helps during reconnaissance to understand the security layer of a website before testing further.
+The tool scans the website and checks for firewall signatures.
+It can detect popular WAFs like Cloudflare, AWS WAF, etc.
+Helps understand how protected a web application is.
