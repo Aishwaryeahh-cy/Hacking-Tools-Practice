@@ -1,4 +1,4 @@
-🔹 FIERCE (DNS Reconnaissance Tool)
+FIERCE (DNS Reconnaissance Tool)
 Fierce is a DNS reconnaissance tool used in Kali Linux.
 It helps discover subdomains and internal DNS records of a target domain.
 Commonly used during the information gathering phase of penetration testing.
