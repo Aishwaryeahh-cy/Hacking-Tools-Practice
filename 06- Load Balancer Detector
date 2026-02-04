@@ -3,4 +3,4 @@ LBD is a tool used to detect load balancers on a target system.
 It checks whether a website or server is behind a load balancing mechanism.
 Helps understand server distribution and traffic handling.
 Useful during reconnaissance to identify complex infrastructures.
-Aids in planning further security testing strategies.
+Aids in planning further security testing strategies..
