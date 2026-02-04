@@ -1,0 +1,5 @@
+ARPing
+ARPing is a tool used to send ARP (Address Resolution Protocol) requests to discover devices on a local network.
+It helps in identifying active hosts and testing network communication.
+ARPing helps in understanding how devices communicate inside a local network. 
+It is also useful in learning network scanning and man-in-the-middle concepts.
