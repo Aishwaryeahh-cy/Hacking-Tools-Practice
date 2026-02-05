@@ -1,0 +1,9 @@
+Proxmark3
+• Device used to analyze RFID and NFC cards.
+• Threat: Can expose card cloning and access control weaknesses.
+• Ethical Use: Used to test physical security and smart card protection systems.
+
+Malicious Keyboard
+• Modified keyboard capable of recording or injecting keystrokes.
+• Threat: Can capture login credentials and sensitive data.
+• Ethical Use: Used to test hardware tampering risks and endpoint security.
