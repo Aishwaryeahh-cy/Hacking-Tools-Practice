@@ -7,4 +7,4 @@ robots.txt is a file used by websites to control search engine crawlers.
 Why it matters in security:
 - Useful for information gathering
 - Helps understand website structure
-- Often used in reconnaissance phase nd safety
+- Often used in reconnaissance phase nd safety.
