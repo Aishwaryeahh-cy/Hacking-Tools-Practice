@@ -10,5 +10,5 @@ Features
 - Improves command-line productivity
 
 Installation
-```bash
+```'bash
 pip install shell-gpt
