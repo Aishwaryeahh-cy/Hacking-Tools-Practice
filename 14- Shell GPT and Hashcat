@@ -3,13 +3,12 @@ This project documents my learning experience with Shell GPT and Hashcat. These 
 
 Shell GPT (sgpt) is a terminal-based AI assistant that allows users to generate, explain, and execute commands using natural language.
 
-### Features
+Features
 - Converts natural language into shell commands
 - Helps debug terminal errors
 - Generates scripts and automation commands
 - Improves command-line productivity
 
-### Installation
-
+Installation
 ```bash
 pip install shell-gpt
