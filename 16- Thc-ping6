@@ -7,7 +7,3 @@ What It Does
 • Sends ICMPv6 packets
 • Checks IPv6 host connectivity
 • Helps detect live IPv6 devices
-🔹 Why It Is Used
-• Tests IPv6 network security
-• Helps understand IPv6 communication
-• Detects systems using IPv6 protocols
