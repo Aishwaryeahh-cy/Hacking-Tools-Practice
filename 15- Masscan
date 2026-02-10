@@ -9,8 +9,3 @@ What Masscan Does
 • Identifies which ports are open
 • Helps detect active devices in a network
 • Sends TCP packets to check port availability
-🔹 Why It Is Used
-• Very fast large network scanning
-• Saves time during penetration testing
-• Helps identify exposed services quickly
-• Useful for initial network mapping
