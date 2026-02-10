@@ -2,6 +2,7 @@ What is thc-ping6?
 • Part of THC IPv6 security toolkit
 • Used for IPv6 network testing
 • Works similar to ping but for IPv6
+
 What It Does
 • Sends ICMPv6 packets
 • Checks IPv6 host connectivity
