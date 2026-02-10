@@ -3,6 +3,7 @@ What is Masscan?
 • Used to detect open ports in networks
 • Much faster than traditional scanners like Nmap
 • Commonly used in reconnaissance phase
+
 What Masscan Does
 • Scans IP addresses and port ranges
 • Identifies which ports are open
