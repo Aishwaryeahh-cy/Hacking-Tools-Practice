@@ -1,4 +1,4 @@
-Netmask (in Networking & Ethical Hacking)
+Netmask 
 Understood how netmask identifies network and host portions of an IP address.
 Learned to interpret CIDR notation (e.g., /24, /16) for subnet identification.
 Used netmask knowledge to determine IP ranges during network scanning.
