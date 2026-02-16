@@ -1,0 +1,8 @@
+Basic Rules of Penetration Testing
+Understood that penetration testing must always be performed with proper authorization and legal permission.
+Learned the importance of defining scope and objectives before starting a test.
+Studied the need to follow a structured methodology (recon → scanning → exploitation → reporting).
+Recognized the responsibility to avoid damaging systems or data during testing.
+Learned that findings must be documented clearly with evidence and remediation suggestions.
+Understood ethical responsibilities such as confidentiality and responsible disclosure.
+Learned that penetration testing focuses on identifying vulnerabilities, not causing disruption.
