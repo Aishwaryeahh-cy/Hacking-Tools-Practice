@@ -1,0 +1,8 @@
+VMware – Installation & Purpose
+Learned the purpose of VMware for creating and running virtual machines.
+Installed VMware to set up isolated environments for cybersecurity practice.
+Understood how virtualization allows running multiple operating systems on one computer.
+Learned that VMs help in safe malware testing and penetration-testing labs.
+Explored basic setup steps: download → install → create new VM → load ISO.
+Understood benefits like system isolation, snapshots, and rollback capability.
+Learned VMware is widely used in enterprise and professional security labs.
