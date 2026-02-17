@@ -1,0 +1,5 @@
+NetDiscover Tool
+NetDiscover is a network reconnaissance tool used to discover live hosts on a local network.
+Works by sending ARP requests and collecting responses.
+Helps identify IP addresses, MAC addresses, and device vendors.
+Useful when DHCP information is unavailable or during internal network testing.
