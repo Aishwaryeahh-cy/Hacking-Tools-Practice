@@ -1,0 +1,5 @@
+httprobe
+httprobe is a reconnaissance tool used to identify which domains or subdomains are running active HTTP or HTTPS services.
+It scans a list of hosts and checks for reachable web servers.
+Helps security testers filter results to find live web targets only.
+Commonly used after subdomain enumeration to verify accessible websites.
