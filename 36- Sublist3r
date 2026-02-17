@@ -1,0 +1,5 @@
+Sublist3r
+Sublist3r is a Python-based tool used for fast subdomain enumeration of a target domain.
+It collects subdomains using search engines, DNS records, and OSINT sources.
+Helps identify hidden or forgotten subdomains during reconnaissance.
+Useful in bug bounty hunting, penetration testing, and attack surface mapping.
