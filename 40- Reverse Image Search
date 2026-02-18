@@ -1,0 +1,8 @@
+Reverse Image Search (General Concept)
+Technique used to search using an image instead of text.
+Helps find:
+Original image source
+Similar images
+Fake or edited images
+Image owner or usage locations
+Useful in fake news detection, OSINT, and copyright checks.
