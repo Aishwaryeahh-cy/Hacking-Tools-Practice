@@ -1,0 +1,11 @@
+Reverse Phone Lookup
+Used to identify information linked to a phone number.
+Can reveal:
+Owner name
+Location/country
+Carrier/provider
+Spam or scam reports
+Helpful in fraud detection & cyber investigations.
+Works using public databases and OSINT sources.
+Often used during social engineering investigations.
+Example tools: Truecaller, Whitepages, etc.
