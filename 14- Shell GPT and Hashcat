@@ -1,5 +1,6 @@
 Shell GPT and Hashcat Learning Project
-This project documents my learning experience with Shell GPT and Hashcat. These tools combine artificial intelligence with cybersecurity techniques to improve command-line productivity and password security testing.
+This project documents my learning experience with Shell GPT and Hashcat. 
+These tools combine artificial intelligence with cybersecurity techniques to improve command-line productivity and password security testing.
 
 Shell GPT (sgpt) is a terminal-based AI assistant that allows users to generate, explain, and execute commands using natural language.
 
@@ -13,3 +14,8 @@ Installation
 ```bash
 pip install shell-gpt
 
+Hashcat 
+Test password strength in security audits
+Recover forgotten passwords (ethical use)
+Perform penetration testing on leaked hashes
+Check if company password policies are weak
