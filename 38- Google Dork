@@ -1,0 +1,6 @@
+Google Dork — site:amazon.com filetype:pdf
+A Google search operator used to find specific files on a website.
+site: restricts results to a particular domain (example: amazon.com).
+filetype: filters results by file format like PDF, DOC, XLS, etc.
+Helps in finding public documents, reports, manuals, or leaked files.
+Widely used in OSINT, bug bounty, and penetration testing reconnaissance.
