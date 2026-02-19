@@ -1,0 +1,11 @@
+Waybackpy
+Python interface for Wayback Machine.
+Retrieves archived website versions.
+Useful in bug bounty reconnaissance.
+
+Kali NetHunter
+Mobile penetration testing platform by Kali.
+Runs on supported Android devices.
+Provides portable hacking toolkit.
+Includes wireless, HID, and network attack tools.
+Separate installation (not inside desktop Kali).
