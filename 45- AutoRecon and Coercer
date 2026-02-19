@@ -1,0 +1,11 @@
+AutoRecon
+Automated reconnaissance framework.
+Performs port scanning and service enumeration.
+Organizes scan results into folders.
+
+Coercer
+Active Directory attack simulation tool.
+Forces Windows systems to authenticate to attacker.
+Helps capture hashes or relay authentication.
+Used in internal network pentesting.
+Not preinstalled in Kali.
