@@ -1,0 +1,5 @@
+T64 Transition
+Not a penetration testing tool.
+System-level Linux update for 64-bit time handling.
+Prevents Year-2038 time overflow issues.
+Already part of modern Linux/Kali internally.
