@@ -1,0 +1,12 @@
+pspy
+Linux privilege escalation discovery tool.
+Monitors running processes without root access.
+Detects cron jobs and hidden scripts.
+Helps identify escalation opportunities.
+Not preinstalled.
+
+PyInstaller
+Converts Python scripts into executables.
+Bundles dependencies into single file.
+Used for distributing Python applications.
+Requires installation.
