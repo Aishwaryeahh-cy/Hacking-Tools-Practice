@@ -1,0 +1,12 @@
+Horst
+Wireless network monitoring utility.
+Displays signal strength and traffic stats.
+Used for WiFi diagnostics and analysis.
+Not usually preinstalled.
+
+Ligolo-ng
+Network tunneling and pivoting framework.
+Allows access to internal networks after compromise.
+Creates secure reverse tunnels.
+Used in advanced red-team operations.
+Not preinstalled.
