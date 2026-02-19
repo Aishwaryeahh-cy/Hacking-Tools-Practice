@@ -1,0 +1,13 @@
+Sickle Tool
+Shellcode formatting and conversion utility.
+Converts payloads into multiple formats.
+Used in exploit development workflows.
+Helps integrate payloads into scripts/programs.
+Not preinstalled.
+
+Snort
+Network Intrusion Detection System (IDS).
+Monitors traffic for malicious patterns.
+Used in defensive cybersecurity labs.
+Supports real-time packet analysis.
+Not installed by default in Kali.
