@@ -1,0 +1,12 @@
+pyinstxtractor
+Extracts contents from PyInstaller executables.
+Used for reverse engineering Python programs.
+Helpful in malware/security analysis.
+Not preinstalled.
+
+SharpShooter
+Payload generation framework.
+Produces scripts for security testing simulations.
+Used in red-team training environments.
+Focuses on detection-evasion research.
+Not preinstalled.
