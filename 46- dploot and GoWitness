@@ -1,0 +1,9 @@
+dploot
+Extracts secrets from Windows DPAPI storage.
+Recovers saved credentials and certificates.
+Used during post-exploitation phase.
+
+GoWitness
+Website screenshot automation tool.
+Captures web pages during reconnaissance.
+Useful for subdomain enumeration documentation.
