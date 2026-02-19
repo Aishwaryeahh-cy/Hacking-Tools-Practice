@@ -1,0 +1,13 @@
+SploitScan
+Vulnerability intelligence lookup tool.
+Maps CVEs to available exploits.
+Helps identify possible attack paths.
+Used during vulnerability assessment phase.
+Not preinstalled.
+
+Vopono
+Runs applications through VPN or Tor.
+Isolates network routing per application.
+Useful for privacy and testing environments.
+Helps simulate traffic from different locations.
+Not preinstalled.
