@@ -1,0 +1,11 @@
+Ubertooth One (Bluetooth Security Tool)
+Open-source Bluetooth monitoring and analysis device.
+Used to study Bluetooth traffic and security weaknesses.
+Supports research into pairing, encryption, and wireless protocols.
+⚠️ Only analyze Bluetooth devices you are permitted to test.
+
+RFID Hacking Kit / Card Cloning Research
+Tools used to read or emulate RFID/NFC card signals.
+Demonstrates risks in contactless cards and access badges.
+Helps organizations strengthen authentication systems.
+⚠️ Cloning cards without authorization is a criminal offense.
