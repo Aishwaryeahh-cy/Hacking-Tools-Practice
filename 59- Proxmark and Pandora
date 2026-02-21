@@ -1,0 +1,11 @@
+Proxmark / Chameleon (RFID Research Devices)
+Advanced RFID research tools for reading, emulating, and analyzing cards.
+Used in penetration testing of access control systems.
+Helps evaluate encryption and cloning resistance.
+⚠️ Use strictly in authorized lab/security testing scenarios.
+
+Pandora / RF Signal Manipulation Devices
+Hardware platforms for analyzing and manipulating radio signals.
+Used in wireless protocol research and embedded security testing.
+Supports studying RF communications and vulnerabilities.
+⚠️ Interfering with radio systems may violate telecom laws.
