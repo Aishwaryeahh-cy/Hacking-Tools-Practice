@@ -1,0 +1,11 @@
+Adafruit Bluefruit (Bluetooth Dev Board)
+Bluetooth Low Energy development platform for IoT projects.
+Used to build and test BLE communication systems.
+Helps researchers learn Bluetooth security and protocol behavior.
+⚠️ Should not be used for unauthorized device access.
+
+ESP32 Camera (Security / IoT Device)
+Microcontroller with built-in WiFi/Bluetooth and camera support.
+Used for IoT automation, monitoring, and computer-vision projects.
+Popular in security research and embedded system learning.
+⚠️ Using cameras to spy without consent is illegal.
