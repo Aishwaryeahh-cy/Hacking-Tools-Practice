@@ -1,0 +1,11 @@
+WiFi Pineapple
+A penetration-testing device used to simulate rogue WiFi access points.
+Helps security professionals detect insecure connections and man-in-the-middle risks.
+Captures wireless traffic to analyze vulnerabilities in network configurations.
+⚠️ Must only be used in authorized security testing environments.
+
+🐰 Bash Bunny
+A USB attack platform that emulates keyboard, network card, or storage.
+Automates payload execution for penetration testing and red-team exercises.
+Used to test endpoint security and USB attack defenses.
+⚠️ Unauthorized use on others’ systems is illegal.
