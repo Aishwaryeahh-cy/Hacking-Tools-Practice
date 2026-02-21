@@ -1,25 +1,26 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f9d58&height=170&section=header&text=Cybersecurity%20Practice%20Lab&fontSize=34&fontColor=00ff9c"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b132b,50:1c2541,100:3a506b&height=190&section=header&text=Cybersecurity%20Practice%20Lab&fontSize=36&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=900&color=00FF9C&background=00000000&center=true&vCenter=true&width=650&lines=%24+whoami;Cybersecurity+Student;Ethical+Hacking+Learner;Practicing+Tools+in+Safe+Labs;Building+Real+Security+Skills" />
-</p>
+## 🔐 Ethical Hacking Practice Repository
 
-```bash
-┌──(student㉿cyberlab)-[~/practice]
-└─$ ls
-wireless-security
-hardware-testing
-network-analysis
-bluetooth-rfid
-security-fundamentals
+Hands-on repository documenting my practical learning in cybersecurity through real tools, experiments, and controlled lab practice.
 
-┌──(student㉿cyberlab)-[~/practice]
-└─$ cat ethics.txt
-All tools are used only in authorized environments for learning.
-```
+### ⚡ Focus Areas
+
+* 📡 Wireless Security & Network Analysis
+* 🔌 Hardware / USB Security Testing
+* 📶 Bluetooth & RFID Research Basics
+* 🧠 Cybersecurity Fundamentals
+
+### 🛠 Approach
+
+Learn → Practice → Document → Improve
+
+### ⚠️ Ethical Notice
+
+All tools and techniques are used **strictly for educational purposes** in authorized lab environments only.
 
 ---
 
-⭐ **Hands-on cybersecurity learning through real practice**
+⭐ *Consistently building real-world cybersecurity skills through practice.*
