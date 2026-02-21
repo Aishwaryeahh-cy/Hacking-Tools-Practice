@@ -1,11 +1,22 @@
-# 🔐 Hacking Tools Practice
+<p align="center">
+<img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="350"/>
+</p>
 
-Hands-on practice repository for ethical hacking and cybersecurity tools.  
-Focused on learning tools by using them, not just reading about them.
+<h2 align="center">🔐 Ethical Hacking Practice Lab</h2>
 
-## 🚀 What this repo is about
-- Daily practice of hacking tools
-- Real-time tool usage and learning
-- Building strong cybersecurity fundamentals
+<p align="center">
+<img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="180"/>
+<img src="https://media.giphy.com/media/l0MYGb1LuZ3n7dRnO/giphy.gif" width="180"/>
+</p>
 
+<p align="center"><b>Hands-on cybersecurity learning in safe lab environments</b></p>
 
+<p align="center">
+📡 Wireless • 🔌 Hardware • 🌐 Network • 🧠 Security
+</p>
+
+<p align="center">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="220"/>
+</p>
+
+<p align="center"><b>⚠️ Educational use only — ethical practice</b></p>
