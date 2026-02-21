@@ -1,0 +1,5 @@
+MAC spoofing
+The process of changing a device’s hardware network identifier.
+Used in cybersecurity labs to test network filtering and privacy protections.
+Helps simulate different devices during penetration testing.
+⚠️ Should only be performed on owned or authorized networks.
