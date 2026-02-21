@@ -1,0 +1,11 @@
+Detect WiFi Networks (Aircrack-ng)
+Aircrack-ng suite helps discover nearby wireless networks.
+Enables monitoring signal strength, channels, and encryption types.
+Used in ethical auditing to check network security posture.
+⚠️ Attempting to break WiFi passwords without permission is illegal.
+
+Key Grabber
+Hardware or software designed to capture keystrokes typed by a user.
+Demonstrates risks of physical access or malware infection.
+Used in labs to study data-exfiltration and endpoint protection.
+⚠️ Unauthorized monitoring of user input violates privacy laws.
