@@ -1,4 +1,5 @@
 EnumLinux4
+Enum4linux is a cybersecurity tool used to collect information from Windows machines using SMB.
 Used for Linux/Samba enumeration and information gathering.
 Helps identify users, shares, and services on target systems.
 Supports penetration testing reconnaissance phase.
