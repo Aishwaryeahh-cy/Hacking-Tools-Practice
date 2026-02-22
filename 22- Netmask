@@ -1,4 +1,5 @@
-Netmask 
+Netmask
+A Netmask (or subnet mask) tells your computer which part of an IP address is the network and which part is the device (host).
 Understood how netmask identifies network and host portions of an IP address.
 Learned to interpret CIDR notation (e.g., /24, /16) for subnet identification.
 Used netmask knowledge to determine IP ranges during network scanning.
