@@ -1,4 +1,5 @@
 Adafruit Bluefruit (Bluetooth Dev Board)
+A small programmable board that adds Bluetooth to your DIY electronics.
 Bluetooth Low Energy development platform for IoT projects.
 Used to build and test BLE communication systems.
 Helps researchers learn Bluetooth security and protocol behavior.
