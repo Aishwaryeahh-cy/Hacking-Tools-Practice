@@ -1,4 +1,6 @@
 Turbo Decoder
+Turbo encoding adds smart extra bits before sending.
+👉 Turbo decoding at the receiver uses those bits to recover the original correct data.
 • Device used to analyze encoded wireless signals.
 • Threat: Can demonstrate signal interception risks.
 • Ethical Use: Used to test communication encryption security.
