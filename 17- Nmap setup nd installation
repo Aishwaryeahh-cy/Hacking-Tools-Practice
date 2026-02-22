@@ -1,4 +1,5 @@
 Nmap
+Nmap (Network Mapper) is a tool used to scan networks and see what devices and ports are open.
 Learned basic installation and setup
 Explored network scanning concepts
 Practiced discovering open ports and active hosts
