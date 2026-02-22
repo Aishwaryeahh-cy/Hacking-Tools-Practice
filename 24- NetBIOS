@@ -1,4 +1,6 @@
 NetBIOS
+NetBIOS is an old Windows networking system that helps computers on the same network:
+find each other by name
 Used for network device and shared resource identification.
 Helps in basic system and hostname enumeration.
 Useful in internal network reconnaissance learning.
