@@ -1,4 +1,5 @@
 SMB (Server Message Block) in Hacking / Cybersecurity
+SMB is a network protocol used for sharing files, folders, printers, and logins between computers (mostly in Windows networks).
 Learned that SMB is a file-sharing protocol used mainly on Windows systems.
 Studied how attackers enumerate SMB shares, users, and permissions during reconnaissance.
 Explored SMB vulnerabilities (e.g., outdated SMB versions) that can allow unauthorized access or exploitation.
