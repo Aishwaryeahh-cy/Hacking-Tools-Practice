@@ -1,4 +1,5 @@
 Amass Tool
+*A powerful tool that discovers all hidden parts of a website/domain on the internet.
 •Amass is an open-source reconnaissance tool used for subdomain enumeration and attack surface mapping.
 •It gathers information from DNS records, search engines, certificates, and public data sources.
 •Helps security professionals discover hidden subdomains and network assets of a target domain.
