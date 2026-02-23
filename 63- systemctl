@@ -1,0 +1,7 @@
+systemctl
+systemctl → control background services
+Command examples
+systemctl start <service_name>
+systemctl stop <service_name>
+Used to control system services in Linux (systemd-based systems).
+Helps automate starting/stopping services during scripts or cron jobs.
