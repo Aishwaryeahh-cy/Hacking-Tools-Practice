@@ -1,0 +1,5 @@
+echo
+Command example
+echo "Backup completed successfully"
+echo prints messages or variables to terminal or files.
+Commonly used inside automation scripts for logs or notification
