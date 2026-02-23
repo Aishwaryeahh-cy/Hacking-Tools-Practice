@@ -1,0 +1,6 @@
+sudo is used to provide root access
+Using sudo for privileged automation
+Command example
+sudo systemctl restart apache2
+sudo allows running commands with administrator/root privileges.
+Required for automating system-level tasks (services, packages, configs).
