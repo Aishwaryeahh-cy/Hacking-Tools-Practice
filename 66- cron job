@@ -1,0 +1,7 @@
+Automating recurring tasks using cron
+Command to edit cron jobs
+crontab -e
+Example cron entry (runs every day at 2 AM)
+0 2 * * * /path/to/script.sh
+Cron is used to schedule repetitive tasks automatically.
+Runs in background even without user interaction.
