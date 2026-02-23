@@ -1,0 +1,6 @@
+Scheduling one-time tasks (example: after 1 hour)
+Command example
+echo "shutdown -h now" | at now + 1 hour
+(Requires at service installed and running)
+Used to schedule commands at a specific future time.
+now + 1 hour allows delayed automation.
