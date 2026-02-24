@@ -4,4 +4,4 @@ Cron jobs and system services can execute tasks automatically at startup.
 Example: enable service at boot
 sudo systemctl enable <service_name>
 Tasks can run automatically when system starts.
-guuhhgff
+guu
