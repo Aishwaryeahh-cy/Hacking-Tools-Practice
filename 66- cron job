@@ -1,4 +1,6 @@
 Automating recurring tasks using cron
+Cron is for automatic repeated scheduling.
+Runs again and again automatically
 Command to edit cron jobs
 crontab -e
 Example cron entry (runs every day at 2 AM)
