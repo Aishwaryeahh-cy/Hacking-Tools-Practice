@@ -1,4 +1,6 @@
 Scheduling one-time tasks (example: after 1 hour)
+Means you manually plan a single task to run once (or you run it yourself).
+Runs only once or when you trigger it
 Command example
 echo "shutdown -h now" | at now + 1 hour
 (Requires at service installed and running)
