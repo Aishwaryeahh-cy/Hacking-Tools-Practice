@@ -1,4 +1,4 @@
-wafw00f
+bhgggwafw00f
 wafw00f is used to check if a website is protected by a Web Application Firewall (WAF).
 It helps during reconnaissance to understand the security layer of a website before testing further.
 The tool scans the website and checks for firewall signatures.
