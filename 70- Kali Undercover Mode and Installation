@@ -1,0 +1,11 @@
+Kali Undercover Mode
+Converted Kali interface to Windows-like UI using kali-undercover
+Studied use case in Red Team environments
+Learned how UI masking helps in social engineering contexts
+Practiced switching between default and undercover modes
+
+Kali Linux Installation & System Maintenance
+Installed Kali Linux in virtual environment
+Learned partitioning basics
+Performed system updates using apt package manager
+Understood difference between update, upgrade, full-upgrade
