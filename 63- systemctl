@@ -1,5 +1,6 @@
 systemctl
-Normal users don’t need systemctl; it’s used only to manage or change system services.”
+Normal users don’t need systemctl;
+It’s used only to manage or change system services.”
 systemctl → control background services
 Command examples
 systemctl start <service_name>
