@@ -1,4 +1,4 @@
-yyARPing
+ARPing
 Checks if a device is alive on LAN
 ARPing is a tool used to send ARP (Address Resolution Protocol) requests to discover devices on a local network.
 It helps in identifying active hosts and testing network communication.
