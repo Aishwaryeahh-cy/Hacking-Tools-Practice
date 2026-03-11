@@ -5,3 +5,10 @@ It tricks the victim into granting camera permission on their browser.
 Once permission is allowed, the attacker can capture photos and sometimes location/IP information.
 It works by sending a fake webpage or phishing link that looks like a legitimate service.
 When the victim opens the link and allows access, the camera activates and captures images silently.
+
+Risks of CamPhish
+Unauthorized camera access.
+Privacy invasion and spying.
+Exposure of personal surroundings or identity.
+Possible location tracking using IP information.
+Images can be misused or leaked online.
